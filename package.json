@@ -1,17 +1,10 @@
 {
-  "name": "vector-component",
+  "name": "component-vector",
+  "description": "Vector component",
   "version": "0.0.1",
-  "description": "Vector",
   "keywords": [
-    "vector"
+    "vector",
+    "canvas"
   ],
-  "component": {
-    "scripts": {
-      "vector/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/vector.git"
-  }
+  "dependencies": {}
 }
